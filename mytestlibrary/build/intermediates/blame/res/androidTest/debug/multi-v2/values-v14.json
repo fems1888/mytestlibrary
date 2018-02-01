@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jackieyao/Downloads/SuperCalendar-master/mytestlibrary/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/jackieyao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5bfd9663c774f74a6e46876250cdd731/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    }
+                }
+            ]
+        }
+    ]
+}
